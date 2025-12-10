@@ -1,0 +1,5 @@
+SFML-3.0.0/* linguist-vendored
+*.js linguist-vendored
+*.html linguist-vendored
+*.css linguist-vendored
+*.cmake linguist-vendored
